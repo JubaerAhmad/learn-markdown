@@ -1,31 +1,12 @@
-<!-- What is markdown -->
-<!-- Heading -->
-<!-- Comment -->
-<!-- Text Formatting -->
-<!-- Escaping -->
-<!-- Blockquote -->
-<!-- Strikethrough -->
-<!-- Horizontal Line -->
-<!-- List -->
-<!-- Link -->
-<!-- Emoji -->
-<!-- Image -->
-<!-- Table -->
-<!-- Code Block -->
-<!-- Fancy Code Block -->
-<!-- Collapsible Content -->
-<!-- Check Box -->
-<!-- Keyboard Button -->
-<!-- Badge -->
-<!-- Table of Content -->
-<!-- Mention -->
-<!-- Learning Links -->
+# Learn Markdown
+
+[![Youtube Channel](https://img.shields.io/badge/Darun%20IT-Subscribe-red)](https://www.youtube.com/darunit "My youtube Channel")
 
 [//]: # (Table of Content)
 
 <a name="top"></a>
 
-# Table of Markdown content
+## Table of Markdown content
 
 >Click on any topic to go there
 
@@ -675,5 +656,3 @@ This content is written by [Jubaer Ahmad](https://www.facebook.com/JubaerAhmad.i
 
 ---
 ***
-
-
