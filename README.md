@@ -632,7 +632,7 @@ ___
 
 # Learning Links of Markdown
 
-- [Markdown Video in bangla]()
+- [Markdown Video in bangla](https://youtu.be/7TWhI3kemVM)
 
 - [Bangla Cheat Sheet](https://devsonket.com/markdown/)
 
