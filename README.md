@@ -647,6 +647,7 @@ ___
 - [Diagram Website Link](https://mermaid-js.github.io/mermaid/#/)
 
 - [README.MD Stats Link](https://github.com/anuraghazra/github-readme-stats)
+- [Visualizing-Git](https://git-school.github.io/visualizing-git/)
 
 [Go to top:arrow_up: ](#top)
 
